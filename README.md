@@ -1,5 +1,5 @@
-- 👋 Hi, I’m **`@nvabl`** or **`Kyle`**.
-- 👀 I’m a materials engineer who is interested in computational materials and simulation.
+# Hello, folks 👋, this is **`@nvabl`** or **`Khanh (Kyle)`**
+- 👀 I’m a materials engineer who is into computational materials and simulation.
 - 🌱 I’m currently learning computational materials science in energy applications.
 - 💞️ I’m looking to collaborate on any projects in which I could made contributions.
 - 📫 Reach out to me on [Twitter](https://twitter.com/kyle_19nv)
